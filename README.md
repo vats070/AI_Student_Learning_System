@@ -48,7 +48,7 @@ AI-Student-Learning-System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vats070/AI_Student_Learning_System.git
+https://github.com/vats070/AI_Student_Learning_System.git
 ```
 
 ### 2. Navigate to the project directory
