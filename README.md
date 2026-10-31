@@ -6,6 +6,10 @@ An AI-powered student performance prediction and personalized learning system th
 
 The **AI Student Learning System** aims to help students understand their academic performance and identify areas for improvement. It uses machine learning to analyze student data and generate predictions, visualizations, and personalized study plans.
 
+
+🔗 Link : https://ai-student-learning-system.streamlit.app/
+
+
 ## ✨ Features
 
 * 📊 **Student Performance Prediction** — Predict academic performance using a trained machine learning model.
